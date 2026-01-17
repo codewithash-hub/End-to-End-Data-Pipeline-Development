@@ -1,4 +1,3 @@
-```md
 # End-to-End Data Pipeline Development
 
 ## 📌 Project Overview
